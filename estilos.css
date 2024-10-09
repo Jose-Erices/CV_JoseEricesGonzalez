@@ -117,7 +117,7 @@ h2 {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #1e90ff; /* Azul claro */
+    background-color: #1e90ff; /* Azul claro e*/
     color: #ffffff; /* Texto blanco */
     position: relative; /* Cambiado de fixed a relative */
     width: 100%;
